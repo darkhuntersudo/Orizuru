@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/d0ebbb6c-56a1-40c1-a2f0-133f3b183848" />
 
-# 🌸 Orizuru: The Botanical QR Architect
+# 🌸 Orizuru: QR Architect
 **Orizuru** is not just another QR generator—it’s where data meets digital nature. While most QR codes are static and utilitarian, Orizuru transforms your links, contact info, and data into fully customized brand assets, paired with a unique, procedurally generated **3D Blossom Tree**.
 
 ## ✨ Features
@@ -43,6 +43,7 @@ Orizuru uses a proprietary algorithm to map the data strings within a QR code to
 ## 🎮 Live Demo 
 Experience the growth algorithm in real-time. Customize your code and watch your blossom tree evolve.
 
+* [Orizuru Website](https://orizuru.netlify.app/)
 
 **Note:** The 3D rendering is powered by WebGL. For the best experience, we recommend using a modern browser like Chrome or Firefox with hardware acceleration enabled.
 
